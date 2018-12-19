@@ -499,7 +499,7 @@ client.login(process.env.BOT_TOKEN);
 
 const client2 = new Discord.Client();
 const PREFIX2 = "2"
-const Util = require('discord.js');
+
  
 const getYoutubeID = require('get-youtube-id');
  
@@ -997,7 +997,7 @@ client2.login(process.env.BOT_TOKEN2);
 
 const client3 = new Discord.Client();
 const PREFIX3 = "3"
-const Util = require('discord.js');
+
  
 const getYoutubeID = require('get-youtube-id');
  
