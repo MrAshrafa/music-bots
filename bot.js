@@ -501,21 +501,7 @@ const client2 = new Discord.Client();
 const PREFIX2 = "2"
 
  
-const getYoutubeID = require('get-youtube-id');
- 
-const fetchVideoInfo = require('youtube-info');
- 
-const YouTube = require('simple-youtube-api');
- 
-const youtube = new YouTube("AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8");
- 
-const queue = new Map();
- 
-const ytdl = require('ytdl-core');
- 
-const fs = require('fs');
- 
-const gif = require("gif-search");
+
  
  
  
@@ -999,22 +985,7 @@ const client3 = new Discord.Client();
 const PREFIX3 = "3"
 
  
-const getYoutubeID = require('get-youtube-id');
- 
-const fetchVideoInfo = require('youtube-info');
- 
-const YouTube = require('simple-youtube-api');
- 
-const youtube = new YouTube("AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8");
- 
-const queue = new Map();
- 
-const ytdl = require('ytdl-core');
- 
-const fs = require('fs');
- 
-const gif = require("gif-search");
- 
+
  
  
 console.log('=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
